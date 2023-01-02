@@ -17,9 +17,9 @@ fwrite($fh, ''."".$ip ."\n");
 $keys = array(
 "KaguyaXScriptBestChannel",
 
-"bruh1",
+"KaguyaXScriptBestChannel",
 
-"bruh"
+"KaguyaXScriptBestChannel"
 ); 
 $sub = $_GET["key"];
 if (in_array($sub,$keys,TRUE)) {
